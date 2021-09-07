@@ -10,10 +10,6 @@ role: Information Security Evangelist, Quick Learner
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 
-# Interests
-interests:
-  - Security Leadership Cloud Native Security Cloud & Container Security DevOps
-    & DevSecOps Building & Breaking stuff
 # Social Networking
 social:
   - icon: envelope
@@ -31,22 +27,38 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/amitsharma44/
+    icon: keybase
+    icon_pack: fab
+    link: https://keybase.io/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/
+
+# Organization
 organizations:
   - name: Synopsys, Inc.
     url: https://www.synopsys.com/software-integrity.html
+
 # Education
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Bachelor of Engineering, Electronics & Communication
+      institution: Rajasthan University, India
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+# Email      
+email: "amitsharma2009@gmail.com"
+
+# Interests
+interests:
+- Security Leadership
+- Application Security
+- DevOps & DevSecOps
+- Cloud & Container Security
+- Application Risk Management
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -55,7 +67,7 @@ highlight_name: false
 <!--StartFragment-->
 
 DevSecOps, Secrets Management, Container Security,Protocol Testing, Fuzzing, Binary Analysis, Web Application Security Testing, Security Code Audits and Reviews\
-I have done varied Web Application Vulnerability assessments to assess the robustness of different products.\
+I have done varied Web Application Vulnerability assessments to assess the robustness of different products.
 
 **Strengths:**\
 Knowledge on the Industry standards like OWASP and SANS guidelines for vulnerabilities.\
@@ -68,3 +80,11 @@ My mission is to use my existing knowledge and expertise to assist organisations
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+# For Later
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
