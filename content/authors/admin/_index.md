@@ -7,8 +7,15 @@ role: Information Security Evangelist, Quick Learner
 
 # BIO
 
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: DevSecOps, Secrets Management, Container Security,Protocol Testing, Fuzzing, Binary Analysis, Web Application Security Testing, Security Code Audits and Reviews
+  
+# For Later
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Social Networking
 social:
@@ -80,11 +87,3 @@ My mission is to use my existing knowledge and expertise to assist organisations
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-# For Later
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
