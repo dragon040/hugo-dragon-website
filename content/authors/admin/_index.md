@@ -1,11 +1,20 @@
 ---
+# Display Name
 title: Amit Kumar Sharma
-role: Information Security Evangelist
+
+# Role
+role: Information Security Evangelist, Quick Learner
+
+# BIO
+
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
+
+# Interests
 interests:
   - Security Leadership Cloud Native Security Cloud & Container Security DevOps
     & DevSecOps Building & Breaking stuff
+# Social Networking
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,8 +32,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/amitsharma44/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Synopsys, Inc.
+    url: https://www.synopsys.com/software-integrity.html
+# Education
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,13 +47,16 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
+# Is this the primary user of the site?
 superuser: true
+
 highlight_name: false
 ---
 <!--StartFragment-->
 
 DevSecOps, Secrets Management, Container Security,Protocol Testing, Fuzzing, Binary Analysis, Web Application Security Testing, Security Code Audits and Reviews\
 I have done varied Web Application Vulnerability assessments to assess the robustness of different products.\
+
 **Strengths:**\
 Knowledge on the Industry standards like OWASP and SANS guidelines for vulnerabilities.\
 Well versed with the Commercial Tools and Techniques used for intruding into websites coupled with Manual Validations and testing.\
