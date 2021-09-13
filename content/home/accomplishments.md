@@ -55,7 +55,7 @@ item:
   organization_url: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
   title: CEH
   url: "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
- - certificate_url: https://training.accessdata.com/exam/accessdata-certified-examiner
+- certificate_url: https://training.accessdata.com/exam/accessdata-certified-examiner
   date_end: ""
   date_start: "December 2010"
   description: "AccessData Certified Examiner"
